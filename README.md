@@ -55,6 +55,7 @@ capstone1/
 Docker image is built and pushed to Docker Hub:
 
 
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/78cbe12c-3a01-49ba-8de3-b0506c83a54c" />
 
 ---
 
@@ -83,6 +84,10 @@ Push image to Docker Hub
 
 Deploy to Kubernetes cluster
 
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/4ccfb6c8-9df4-4981-95e9-305024a551ef" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/49282a0c-7326-4964-ad45-80740c81a33f" />
+
 
 
