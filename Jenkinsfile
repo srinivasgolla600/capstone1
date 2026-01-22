@@ -25,5 +25,11 @@ pipeline {
                 sh 'docker push $IMAGE_NAME:$IMAGE_TAG'
             }
         }
+
+        stage('Deploy to Kubernetes') {
+            steps {
+                sh 'kubectl apply -f k8s/ --validate=false'
+            }
+        }
     }
 }
